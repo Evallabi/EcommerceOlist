@@ -21,7 +21,8 @@ The analysis of Olist’s 100k orders dataset from 2016 to 2018 aims to refine s
 ##### Tools & Libraries
 
 •	ETL Process:
-  Extraction,Transformation & Loading are done using python (pandas, NumPy), plotly, matplotlib, scikit.Deployed the transformed data to AWS RDS for cloud-based storage and querying.
+  Extraction,Transformation & Loading are done using python (pandas, NumPy), plotly, matplotlib, scikit.
+  Deployed the transformed data to AWS RDS for cloud-based storage and querying.
 
 • Data Validation : 	Cross-check data consistency between Power BI and Jupyter Notebook visualizations.
 
