@@ -1,0 +1,2 @@
+# EcommerceOlist
+Olist is a prominent player in the Brazilian e-commerce market, providing small and medium enterprises (SMEs) with access to a vast marketplace. The analysis of Olist’s 100k orders dataset from 2016 to 2018 aims to refine strategies for improving customer interactions, optimizing operations, and increasing order volumes. Key insights will focus on delivery performance, regional distribution, and special event preparedness.
